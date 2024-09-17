@@ -1,0 +1,118 @@
+.markdown-reading-view .nifty-link-card-container {
+  margin: 1em 0;
+}
+
+.nifty-link-card {
+    border: 1px solid rgb(55, 53, 47, 0.16);
+    border-radius: var(--radius-s);
+    width: 100%;
+    display: flex;
+    transition: 20ms ease-in 0s;
+    align-items: center;
+    text-decoration: none !important;
+    background-color: var(--background-primary);
+    height: 106px;
+
+    &:hover {
+        background: var(--background-modifier-hover);
+        border-color: var(--background-modifier-hover);
+        text-decoration: none;
+    }
+  }
+  
+  .nifty-link-card .nifty-link-image-container {
+      width: 30% !important;
+      overflow: hidden;
+      padding-top: 0px;
+      height: 100%;
+  }
+  
+  .nifty-link-card .nifty-link-image-container .nifty-link-image {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: var(--background-secondary);
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+  }
+  
+  .nifty-link-card .nifty-link-card-text {
+    padding-left: 16px;
+    width: 70%;
+    overflow: hidden;
+    padding-right: 14px;
+    padding-bottom: 10px;
+    padding-top: 14px;
+  }
+  
+  .nifty-link-card .nifty-link-card-title {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(55, 53, 47);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 30px;
+    width: auto;
+    margin-bottom: 2px;
+  }
+  
+  .nifty-link-card .nifty-link-card-description {
+      font-size: 12px;
+      line-height: 15px;
+      display: flex;
+      color: rgba(55, 53, 47, 0.65);
+      height: 40px;
+      overflow: hidden;
+      width: 100%;
+      word-wrap: break-word;
+      padding-top: 8px;
+  }
+  
+  .nifty-link-card .nifty-link-href {
+    font-size: 12px;
+    display: flex;
+    line-height: 16px;
+    color: rgb(55, 53, 47);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 15px;
+    &:hover {
+      color: var(--link-external-color-hover)
+  }
+}
+
+  .nifty-link-icon {
+    width: 16px;
+    height: 16px;
+    margin: 0 0.5em 0 0 !important;
+  }
+  
+  .nifty-link-card-title + .nifty-link-card-description,
+  .nifty-link-card-description + .nifty-link-href {
+      margin-top: -10px;
+  }
+
+  .theme-dark .nifty-link-card {
+    border: 1px solid rgba(255, 255, 255, 0.13);
+  }
+  
+  .theme-dark .nifty-link-card .nifty-link-card-title {
+    color: rgba(255, 255, 255, 0.81);
+  }
+  
+  .theme-dark .nifty-link-card .nifty-link-card-description {
+    color: rgba(255, 255, 255, 0.443);
+  }
+  
+  .theme-dark .nifty-link-card .nifty-link-href {
+    color: rgba(255, 255, 255, 0.81);
+
+    &:hover {
+      color: var(--link-external-color-hover)
+  }
+}

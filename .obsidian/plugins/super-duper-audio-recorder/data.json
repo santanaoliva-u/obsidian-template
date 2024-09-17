@@ -1,0 +1,17 @@
+{
+  "recordingFormat": "webm",
+  "saveFolder": "99 - Meta/attachments/audios",
+  "filePrefix": "Grabacion",
+  "startStopHotkey": "",
+  "pauseHotkey": "",
+  "resumeHotkey": "",
+  "audioDeviceId": "",
+  "sampleRate": 44100,
+  "bitrate": 128000,
+  "enableMultiTrack": false,
+  "maxTracks": 2,
+  "outputMode": "single",
+  "useSourceNamesForTracks": true,
+  "trackAudioSources": {},
+  "debug": false
+}

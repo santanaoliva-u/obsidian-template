@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArmchair",
+      "LiBarChart3",
+      "LiBrokenLink",
+      "BoBxLayerPlus",
+      "LiAtom"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "99 - Meta": "LiArrowDownRightFromCircle",
+  "99 - Meta/00 - Templates": "LiArchive",
+  "01 - Proyectos Completados": "BoBxBadgeCheck",
+  "02 - Documentos Importantes": "LiFileMinus",
+  "03 - Recursos": "LiArchive",
+  "04 - Referencias": "LiBrokenLink",
+  "05 - Desarrollo de Software": "LiAtom",
+  "06 - Daily": "BoBxLayerPlus",
+  "07 - Finanzas": "LiBarChart3",
+  "08 - Recursos Humanos": "LiArmchair",
+  "00 - Instrucciones": "LiBanana"
+}
