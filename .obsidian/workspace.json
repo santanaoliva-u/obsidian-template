@@ -25,6 +25,18 @@
                 }
               },
               {
+                "id": "6009d192ed757b88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "07 - Finanzas/01 - Presupuestos/README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "208e8aed96d4ad89",
                 "type": "leaf",
                 "state": {
@@ -50,7 +62,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "a226d58e26483cdf",
@@ -156,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "07 - Finanzas/01 - Presupuestos/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07 - Finanzas/01 - Presupuestos/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "07 - Finanzas/01 - Presupuestos/README.md"
+              }
             }
           },
           {
@@ -305,8 +322,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d5c1ab9ab6fbf723",
+  "active": "6009d192ed757b88",
   "lastOpenFiles": [
+    "00 - Instrucciones/img/img.png",
+    "07 - Finanzas/01 - Presupuestos/Sin título.md",
     "07 - Finanzas/01 - Presupuestos/README.md",
     "00 - Instrucciones/Sin título.md",
     "00 - Instrucciones/Bienvenida.md",
@@ -341,8 +360,6 @@
     "07 - Archives/11 - Libros/Superacion - Motivacion - PNL - Psicologia/e85760ff240b49239816bac69bd4ac29.epub",
     "07 - Archives/05 - Apuntes/Osint Investiacion/Estrella_Gómez/redes_sociales 🌐/redes_sociales_🌐.md",
     "07 - Archives/05 - Apuntes/Osint Investiacion/Estrella_Gómez/educacion 🎓/educacion_🎓.md",
-    "07 - Archives/01 - Diario/2023-10-14.md",
-    "07 - Archives/01 - Diario/2024-08-19.md",
     "07 - Archives/assets/14.png",
     "07 - Archives/assets/11.png",
     "07 - Archives/assets/7.png",

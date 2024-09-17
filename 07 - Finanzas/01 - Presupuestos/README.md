@@ -5,6 +5,7 @@ El **Valor Presente Neto (VPN)** es una herramienta financiera que permite evalu
 
 $VPN = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t} - C_0$ 
 
+
 Donde:
 
 - $CF_t$ es el flujo de caja en el periodo $t$.
