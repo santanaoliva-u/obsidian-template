@@ -1,7 +1,7 @@
 
 ### Me vaul 
 
-> [!NOTE] Latex (Matematicas) | Plugins | Thema | ICONS | Terminal | Diario
+> [!NOTE] Latex (Matematicas) | Plugins | Thema | ICONS | Terminal | Diario |
 > Estas son mis configuraciones y plugins en mi obsidian para mejorar en sus apuntes
 
 
