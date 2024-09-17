@@ -30,19 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "07 - Finanzas/01 - Presupuestos/README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "208e8aed96d4ad89",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 - Instrucciones/Sin título.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   }
@@ -169,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Finanzas/01 - Presupuestos/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Finanzas/01 - Presupuestos/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Finanzas/01 - Presupuestos/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -322,13 +310,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6009d192ed757b88",
+  "active": "ce5d402394a95f91",
   "lastOpenFiles": [
-    "00 - Instrucciones/img/img.png",
-    "07 - Finanzas/01 - Presupuestos/Sin título.md",
+    "00 - Instrucciones/Bienvenida.md",
+    "00 - Instrucciones/Sin título 1.md",
     "07 - Finanzas/01 - Presupuestos/README.md",
     "00 - Instrucciones/Sin título.md",
-    "00 - Instrucciones/Bienvenida.md",
+    "00 - Instrucciones/img/img.png",
+    "07 - Finanzas/01 - Presupuestos/Sin título.md",
     "00 - Instrucciones/Bienvenidad.md",
     "00 - Instrucciones/El Libro Negro de Gordon Geko.pdf",
     "01 - Proyectos Completados/Trading en la Zona.pdf",
@@ -370,7 +359,6 @@
     "99 - Meta/attachments/img/Pasted image 20240909151830.png",
     "ED-202409110038.excalidraw.png",
     "99 - Meta/attachments/img/Pasted image 20240910153741.png",
-    "99 - Meta/attachments/Pasted image 20240910153741.png",
     "07 - Archives/10 - Universidad/Ingenieria en Sistemas/2023/142 FUNDAMENTOS DE INGENIERIA DEL SOFTWARE 24-1/unidad 1/15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/CASO DE USO.canvas",
     "07 - Archives/10 - Universidad/Ingenieria en Sistemas/2023/142 FUNDAMENTOS DE INGENIERIA DEL SOFTWARE 24-1/unidad 1/25-09-2023/Modelo de clase.canvas",
     "07 - Archives/10 - Universidad/Ingenieria en Sistemas/2023/142 FUNDAMENTOS DE INGENIERIA DEL SOFTWARE 24-1/unidad 1/25-09-2023/Diagrama de clase.canvas",
