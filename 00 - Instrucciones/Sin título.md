@@ -1,9 +1,7 @@
-# 01 - Presupuestos
 # Análisis del Valor Presente Neto (VPN)
 
-El **Valor Presente Neto (VPN)** es una herramienta financiera que permite evaluar la viabilidad de un proyecto de inversión. Se basa en calcular el valor presente de los flujos de caja futuros descontados por una tasa de interés. La fórmula general es:
 
-$VPN = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t} - C_0$ 
+$VPN = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t} - C_0$
 
 Donde:
 
@@ -45,5 +43,3 @@ Si el VPN fuera positivo, indicaría que el proyecto es rentable y generaría va
 ## Conclusiones
 
 El análisis del Valor Presente Neto permite evaluar si un proyecto de inversión generará más valor que el costo del capital invertido. En este caso, un VPN negativo indica que el proyecto no es viable, pero se podrían probar diferentes tasas de descuento o ajustar los flujos de caja esperados para obtener mejores resultados.
-
-Creador: @santanaoliva_u
