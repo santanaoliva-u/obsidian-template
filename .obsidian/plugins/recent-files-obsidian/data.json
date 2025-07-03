@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "ZeroDay_Priority",
+      "path": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/ZeroDay_Priority.md"
+    },
+    {
+      "basename": "Unpatched_Assets",
+      "path": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/Unpatched_Assets.md"
+    },
+    {
+      "basename": "High_Value_Targets",
+      "path": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/High_Value_Targets.md"
+    },
+    {
+      "basename": "Timeline_Tracker",
+      "path": "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Timeline_Tracker.md"
+    },
+    {
+      "basename": "Target_Priority_Grid",
+      "path": "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Target_Priority_Grid.md"
+    },
+    {
+      "basename": "Payout_Tracker",
+      "path": "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Payout_Tracker.md"
+    },
+    {
+      "basename": "Global_Bounty_Dash",
+      "path": "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Global_Bounty_Dash.md"
+    },
+    {
+      "basename": "Mitre_Bounty_Matrix",
+      "path": "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Mitre_Bounty_Matrix.md"
+    },
+    {
+      "basename": "SOS_Response_Log",
+      "path": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/SOS_Response_Log.md"
+    },
+    {
+      "basename": "00_Void_Dogma",
+      "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/00_Void_Dogma.md"
+    },
+    {
+      "basename": "Instrucciones_Leer <<---",
+      "path": "vaules/Instrucciones_Leer <<---.md"
+    },
+    {
+      "basename": "README",
+      "path": "vaules/General/05 - Desarrollo de Software/01 - Código Fuente/README.md"
+    },
+    {
+      "basename": "Infra_Mapping",
+      "path": "vaules/VOID_BUGHUNTER/02_OPS_SINGULARITY/example_program/01_Recon_Zone/Infra_Mapping.md"
+    },
+    {
+      "basename": "Recon_Vortex",
+      "path": "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Recon_Vortex.md"
+    },
+    {
+      "basename": "Exploit_Nova",
+      "path": "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Exploit_Nova.md"
+    },
+    {
+      "basename": "Enum_Singularity",
+      "path": "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Enum_Singularity.md"
+    },
+    {
+      "basename": "Evasion_Void",
+      "path": "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Evasion_Void.md"
+    },
+    {
+      "basename": "03_Platform_Rules",
+      "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/03_Platform_Rules.md"
+    },
+    {
+      "basename": "04_Signature_Void",
+      "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/04_Signature_Void.md"
+    },
+    {
+      "basename": "02_Threat_Models",
+      "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/02_Threat_Models.md"
+    },
+    {
+      "basename": "01_Bounty_Flux",
+      "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/01_Bounty_Flux.md"
+    },
+    {
       "basename": "Bienvenida",
-      "path": "00 - Instrucciones/Bienvenida.md"
+      "path": "vaules/General/00 - Instrucciones/Bienvenida.md"
     },
     {
       "basename": "README",
@@ -11,6 +95,7 @@
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"

@@ -1,2 +1,0 @@
-# API Quantum Wordlist
-# Prompt: "Genera una wordlist para descubrir endpoints de APIs en programas de Bug Bounty."

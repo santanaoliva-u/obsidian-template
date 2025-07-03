@@ -36,13 +36,13 @@
   },
   "99 - Meta": "LiArrowDownRightFromCircle",
   "99 - Meta/00 - Templates": "LiArchive",
-  "01 - Proyectos Completados": "BoBxBadgeCheck",
-  "02 - Documentos Importantes": "LiFileMinus",
-  "03 - Recursos": "LiArchive",
-  "04 - Referencias": "LiBrokenLink",
-  "05 - Desarrollo de Software": "LiAtom",
   "06 - Daily": "BoBxLayerPlus",
-  "07 - Finanzas": "LiBarChart3",
-  "08 - Recursos Humanos": "LiArmchair",
-  "00 - Instrucciones": "LiBanana"
+  "vaules/General/00 - Instrucciones": "LiBanana",
+  "vaules/General/01 - Proyectos Completados": "BoBxBadgeCheck",
+  "vaules/General/02 - Documentos Importantes": "LiFileMinus",
+  "vaules/General/03 - Recursos": "LiArchive",
+  "vaules/General/04 - Referencias": "LiBrokenLink",
+  "vaules/General/05 - Desarrollo de Software": "LiAtom",
+  "vaules/General/07 - Finanzas": "LiBarChart3",
+  "vaules/General/08 - Recursos Humanos": "LiArmchair"
 }

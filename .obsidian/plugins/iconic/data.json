@@ -4,6 +4,9 @@
   "showAllFileIcons": false,
   "showAllFolderIcons": false,
   "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
@@ -14,10 +17,18 @@
   "uncolorSelect": false,
   "uncolorQuick": false,
   "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {},
   "bookmarkIcons": {},
+  "tagIcons": {},
   "propertyIcons": {},
-  "ribbonIcons": {}
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
 }
