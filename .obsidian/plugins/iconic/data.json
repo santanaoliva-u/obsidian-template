@@ -12,6 +12,7 @@
   "uncolorHover": false,
   "uncolorDrag": false,
   "uncolorSelect": false,
+  "uncolorQuick": false,
   "rememberDeletedItems": false,
   "appIcons": {},
   "tabIcons": {},
