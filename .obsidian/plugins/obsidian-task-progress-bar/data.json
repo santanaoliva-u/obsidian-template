@@ -344,7 +344,7 @@
     "showRewardType": "modal"
   },
   "habit": {
-    "enableHabits": false,
+    "enableHabits": true,
     "habits": []
   },
   "sortTasks": true,
