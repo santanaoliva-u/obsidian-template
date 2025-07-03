@@ -1,0 +1,2 @@
+# Fuzzing Paths Wordlist
+# Prompt: "Diseña una wordlist para fuzzing de rutas sensibles en aplicaciones modernas."

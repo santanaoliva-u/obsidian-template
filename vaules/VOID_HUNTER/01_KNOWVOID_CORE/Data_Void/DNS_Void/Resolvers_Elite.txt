@@ -1,0 +1,2 @@
+# Resolvers Elite
+# Prompt: "Genera una lista de resolvers DNS de alta calidad para recon."
