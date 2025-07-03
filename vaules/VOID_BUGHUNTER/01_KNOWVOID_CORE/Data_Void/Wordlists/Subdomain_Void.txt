@@ -1,0 +1,2 @@
+# Subdomain Void Wordlist
+# Prompt: "Crea una wordlist de subdominios basada en patrones de leaks reales."
