@@ -1,0 +1,3 @@
+# Payloads IDOR
+# Qué es: Códigos para probar accesos no autorizados.
+# Ejemplo: id=1, id=2

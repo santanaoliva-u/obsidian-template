@@ -1,2 +1,0 @@
-# SSRF Nova Payloads
-# Prompt: "Genera payloads SSRF para cloud y APIs en programas de Bugcrowd e Intigriti."

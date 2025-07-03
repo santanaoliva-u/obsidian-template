@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bienvenida",
+      "path": "vaules/General/00 - Instrucciones/Bienvenida.md"
+    },
+    {
+      "basename": "20250703",
+      "path": "06 - Daily/20250703.md"
+    },
+    {
       "basename": "ZeroDay_Priority",
       "path": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/ZeroDay_Priority.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "01_Bounty_Flux",
       "path": "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/01_Bounty_Flux.md"
-    },
-    {
-      "basename": "Bienvenida",
-      "path": "vaules/General/00 - Instrucciones/Bienvenida.md"
     },
     {
       "basename": "README",

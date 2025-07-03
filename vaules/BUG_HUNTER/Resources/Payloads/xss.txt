@@ -1,0 +1,3 @@
+# Payloads XSS
+# Qué es: Códigos para probar XSS.
+# Ejemplo: <script>alert('test')</script>

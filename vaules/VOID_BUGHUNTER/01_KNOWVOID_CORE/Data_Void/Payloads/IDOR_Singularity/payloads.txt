@@ -1,2 +1,0 @@
-# IDOR Singularity Payloads
-# Prompt: "Crea payloads para detectar IDOR en aplicaciones modernas."

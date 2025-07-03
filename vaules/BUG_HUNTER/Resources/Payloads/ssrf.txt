@@ -1,0 +1,3 @@
+# Payloads SSRF
+# Qué es: Códigos para probar SSRF en APIs o cloud.
+# Ejemplo: http://localhost

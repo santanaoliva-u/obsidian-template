@@ -1,2 +1,0 @@
-# XSS Vortex Payloads
-# Prompt: "Crea payloads XSS avanzados, con bypasses de WAF para Bug Bounty."

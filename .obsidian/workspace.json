@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "288553aa2ab65166",
+        "id": "cce505732d38ed9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5fded40241e7908",
+            "id": "e91263131aea2ba2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vaules/General/00 - Instrucciones/Bienvenida.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bienvenida"
-            }
-          },
-          {
-            "id": "458a743e0ed9129f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/ZeroDay_Priority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZeroDay_Priority"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +267,7 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "sh-5.2$ \r\n * Restored history at Thu Jul 03 2025 01:02:57 GMT-0500 (Eastern Standard Time)\r\n\r\nsh-5.2$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[19A\u001b[8C",
+                    "data": "sh-5.2$ \r\n * Restored history at Thu Jul 03 2025 01:02:57 GMT-0500 (Eastern Standard Time)\r\n\r\nsh-5.2$ \r\n * Restored history at Thu Jul 03 2025 01:24:24 GMT-0500 (Eastern Standard Time)\r\n\r\nsh-5.2$ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[19A\u001b[8C",
                     "rows": 20
                   }
                 }
@@ -332,44 +313,44 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "458a743e0ed9129f",
+  "active": "e91263131aea2ba2",
   "lastOpenFiles": [
-    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/Unpatched_Assets.md",
-    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/High_Value_Targets.md",
-    "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Timeline_Tracker.md",
-    "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Target_Priority_Grid.md",
-    "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Payout_Tracker.md",
-    "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Global_Bounty_Dash.md",
-    "vaules/VOID_BUGHUNTER/04_STARFIELD_VISION/Mitre_Bounty_Matrix.md",
-    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/ZeroDay_Priority.md",
-    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/SOS_Response_Log.md",
-    "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/00_Void_Dogma.md",
-    "vaules/Instrucciones_Leer <<---.md",
-    "06 - Daily/Placeholder.md",
-    "06 - Daily/20240916.md",
+    "vaules/crear_carpeta_BugHunter.sh",
+    "vaules/BUG_HUNTER/Threats/New_CVEs.md",
+    "vaules/BUG_HUNTER/Threats/Leaks.md",
+    "vaules/BUG_HUNTER/Threats",
+    "vaules/BUG_HUNTER/Trackers/Money_Tracker.md",
+    "vaules/BUG_HUNTER/Trackers/Bug_Tracker.md",
+    "vaules/BUG_HUNTER/Trackers",
+    "vaules/BUG_HUNTER/Scripts/test_bugs.py",
+    "vaules/BUG_HUNTER/Scripts/scan_domains.py",
+    "vaules/BUG_HUNTER/Scripts/make_report.py",
+    "vaules/BUG_HUNTER/Scripts/leak_check.sh",
+    "vaules/BUG_HUNTER/Scripts/hunt.sh",
+    "vaules/BUG_HUNTER/Scripts/graphql_probe.py",
+    "vaules/BUG_HUNTER/Scripts/api_scan.sh",
+    "vaules/BUG_HUNTER/Scripts",
+    "vaules/BUG_HUNTER/Programs/target_h1/Reports/final_report.md",
+    "vaules/BUG_HUNTER/Programs/target_h1/Recon/endpoints.md",
+    "vaules/BUG_HUNTER/Programs/target_h1/Recon/domains.md",
+    "vaules/BUG_HUNTER/Programs/target_h1/Bugs/bug_001.md",
+    "vaules/BUG_HUNTER/Programs/target_h1/Program_Details.md",
+    "vaules/BUG_HUNTER/Plan/Templates/New_Program.md",
+    "vaules/BUG_HUNTER/Plan/Templates/Bug_Report.md",
+    "vaules/BUG_HUNTER/Plan/Platform_Rules.md",
+    "vaules/BUG_HUNTER/Plan/How_To_Hunt.md",
+    "vaules/BUG_HUNTER/CHANGELOG.md",
+    "vaules/BUG_HUNTER/README.md",
+    "vaules/General/00 - Instrucciones/Bienvenida.md",
+    "vaules/BUG_BOUNTY_BASE/Trackers/Payouts.md",
+    "vaules/BUG_BOUNTY_BASE/Trackers/Progress.md",
+    "vaules/BUG_BOUNTY_BASE/CHANGELOG.md",
+    "vaules/BUG_BOUNTY_BASE/Guides/How_To_Bounty.md",
+    "vaules/BUG_BOUNTY_BASE/Guides/Templates/New_Program.md",
+    "vaules/BUG_BOUNTY_BASE/Guides/Templates/Finding.md",
+    "vaules/BUG_BOUNTY_BASE/Alerts/High_Priority_Programs.md",
     "06 - Daily/20250703.md",
-    "vaules/General",
-    "vaules/General/05 - Desarrollo de Software/01 - Código Fuente/README.md",
-    "vaules/VOID_BUGHUNTER/02_OPS_SINGULARITY/example_program/01_Recon_Zone/Infra_Mapping.md",
-    "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Recon_Vortex.md",
-    "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Exploit_Nova.md",
-    "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Enum_Singularity.md",
-    "vaules/VOID_BUGHUNTER/01_KNOWVOID_CORE/Playbooks/Evasion_Void.md",
-    "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/03_Platform_Rules.md",
-    "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/04_Signature_Void.md",
-    "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/02_Threat_Models.md",
-    "vaules/VOID_BUGHUNTER/00_COMMAND_VORTEX/01_Bounty_Flux.md",
-    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/Sim_Labs/Docker_Arsenal/readme.md",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/Sim_Labs/Custom_Scenarios/readme.md",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/Sim_Labs/Docker_Arsenal",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/Sim_Labs/Custom_Scenarios",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/PoC_Works/Vuln_Type.py",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/Sim_Labs",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB/PoC_Works",
-    "vaules/VOID_BUGHUNTER/06_NOVA_LAB",
-    "vaules/VOID_BUGHUNTER/05_THREAT_HORIZON/Data_Mirrors/NVD_Offline",
-    "vaules/VOID_BUGHUNTER/05_THREAT_HORIZON/Data_Mirrors/Leak_Scanner",
+    "vaules/VOID_BUGHUNTER/07_PULSE_ALERT/Unpatched_Assets.md",
     "vaules/General/00 - Instrucciones/img/img.png",
     "07 - Archives/assets/14.png",
     "07 - Archives/assets/11.png",
